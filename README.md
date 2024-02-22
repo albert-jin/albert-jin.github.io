@@ -1,3 +1,8 @@
+# CAUTION ❗ ❗ ❗ 
+
+## This repository is <mark>a modified (forked) version<mark> based on [academicpages pages](https://academicpages.github.io/) for <mark>Weiqiang Jin<mark>'s [personal website](https://albert-jin.github.io/), which can be referenced at [https://albert-jin.github.io/](https://albert-jin.github.io/).
+
+***
 
 # Academic Pages
 
