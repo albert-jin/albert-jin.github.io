@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I (Weiqiang Jin) received the Computer Science Master's degree in Shanghai University and currently he is pursuing a Artificial Intelligence-related PhD degree in Xi`an Jiaotong University, China. 
+I, Weiqiang Jin, received the Computer Science Master's degree from Shanghai University, and I am currently a Artificial Intelligence-related PhD Candidate at Xi`an Jiaotong University, China. 
 
-Making eminent contributions to the scientific research community is my biggest dream, which is also deeply engraved on the mind of me. My personal representative works are displayed on [Github](https://github.com/albert-jin/) and my brief intro are in the [Electronic Postcard](https://link3.cc/albert0309jin).
+Making eminent contributions to the scientific research community is my biggest dream, which is also deeply engraved on the mind of me. My personal representative works are displayed on [Github](https://github.com/albert-jin/) and my brief intro are in the [Link3 Electronic Postcard](https://link3.cc/albert0309jin).
 
-My Main Research Interests
+Research Interests
 ======
 1. Natural Language Processing, including Knowledge Graph-related Question Answering, Aspect-term Based Sentiment Analysis, Information Retrieval, Fake News Detection and Checking, and Prompt Learning. 
 1. Reinforcement Learning, especially in researching the multi-agents information interaction mechanism based on large multi-modal model. 
@@ -26,35 +26,67 @@ June 2019 - April 2022: Master of Computer Engineering and Technology, Shanghai 
 
 September 2015 - June 2019: Bachelor's degree in Computer Science and Technology, Anhui University of Technology.
 
-Brief Achievement
+Achievements
 ======
-1. Academic Achievements: Published over 20 academic papers, including SCI index journals and EI index conferences, with citations exceeding 100 on Google Scholar.
-1. Project Experience: Participated in numerous national and provincial-level major projects in the field of natural sciences. 
-1. .
-1. .
-1. .  
-1. .
+1. Academic Achievements: Published over 20 academic papers, including SCI index journals and EI index conferences, with citations exceeding 100 on Google Scholar;
+1. Project Experiences: Participated in numerous national and provincial-level major projects in the field of natural sciences;
+1. School Honors: Received multiple school scholarships during undergraduate, master's, and doctoral studies, as well as a national scholarship during doctoral studies;
+1. Competition Honors: Attained various competition honors, including the National Graduate Mathematical Modeling Second Prize, Internet Plus, Tengfei Cup, and Challenge Cup Innovation and Entrepreneurship Competition;
+1. Internship Experiences: Front-end Software Engineer in eBay for foreign trade Corporation, Shanghai, and Unity3D and Python Software Development Engineer in Shanghai Youhao Network Technology Co., Ltd;
+1. Language Proficiencies: CET (Chinese College English Test) Level 4 and Level 6 and IELTS (International English Language Testing System) level 7.0;
+1. Open-source Community Contributions: Actively contributing to the open-source community on platforms like [GitHub](https://github.com/albert-jin/) and [other Internet platforms](https://github.com/albert-jin/FintechKP-frontend/), currently with over 300+ stars, wathcings and forks;
+1. Review Contributions: Serving as a reviewer for multiple renowned international journals and conferences about Artificial Intelligence, reviewing dozens of articles;
+1. Skills and Hobbies: Rich project experience, proficient in programming, passionate about scientific research, enthusiastic about fitness, interested in photography, and love traveling.
 
-Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**School Honors**
 
-Create content & metadata
+- Undergraduate Academic Scholarship: First Prize twice, Second Prize twice;
+
+- Graduate Academic Scholarship: First Prize once, Second Prize once;
+
+- Outstanding Graduate Commendation Award in doctoral study;
+
+- National Scholarship for PhD studies once.
+
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**Internship Experiences**
 
-**Markdown generator**
++ Front-end Software Engineer
+: Front-end interface development, maintenance and optimization of IaSS infrastructure, and back-end Python application development, eBay for foreign trade Corporation, Shanghai, Jan 2021 - Jun 2021.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
++ Unity3D and Python Software Development Engineer
+: Participate in frontend scene development for e-commerce platforms, as well as lead the backend application and user barrage management and monitoring, Shanghai Youhao Network Technology Co., Ltd, Shanghai, May 2022 - Sep 2022.
 
-How to edit your site's GitHub repository
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**Open-source Community Contributions**
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+My [GitHub](https://github.com/albert-jin/) Homepage.
+![GitHub Main page of albert-jin until 2024-02-22.](/images/github-main-page.JPG)
 
-For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Review Contributions**
+
+I have reviewed multiple international journals and conferences, including:
+
+* Journals: [Information Fusion](https://www.sciencedirect.com/journal/information-fusion), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Resources, Conservation & Recycling](https://www.sciencedirect.com/journal/resources-conservation-and-recycling), [Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence), [Web Intelligence](https://www.iospress.com/catalog/journals/web-intelligence), [Data Mining and Knowledge Discovery](https://link.springer.com/journal/10618) and so on.
+
+* Conferences: [CogSci 2024](https://cognitivesciencesociety.org/) and so on.
+
+![My experience in peer reviewing.](/images/reviewer.JPG)
+
+TBD
+------
+. 
+
+TBD
+------
+.
+
+TBD
+------
+. 
+
+TBD
+------
+.

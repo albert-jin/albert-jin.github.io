@@ -21,10 +21,10 @@ repository               : "albert-jin/albert-jin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar-ski.jpg"
   name             : "Weiqiang Jin"
   pronouns         : # example: "she/her"  
-  bio              : "Currently pursuing a doctoral degree at Xi'an Jiaotong University." # I am currently pursuing a doctoral degree at Xi'an Jiaotong University and actively seeking a postdoctoral position.
+  bio              : "a Artificial Intelligence-related PhD Candidate at Xi'an Jiaotong University." # I am currently a Artificial Intelligence-related PhD Candidate at Xi'an Jiaotong University and actively seeking a postdoctoral position.
   location         : "China"
   employer         : "Xi'an Jiaotong University"
   uri              : "https://albert-jin.github.io"
