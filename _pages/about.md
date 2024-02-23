@@ -20,9 +20,9 @@ Research Interests
 
 Education
 ======
-Since September 2022: Ph.D. student in Information and Communication Engineering, Xi'an Jiaotong University.
+Since September 2022: Ph.D. Candidate student in Information and Communication Engineering, Xi'an Jiaotong University. (Tutor: [Gui](https://std.xjtu.edu.cn/info/1072/15975.htm)[zhong](https://gr.xjtu.edu.cn/web/liugz) [Liu](https://dice.xjtu.edu.cn/info/1720/1807.htm))
 
-June 2019 - April 2022: Master of Computer Engineering and Technology, Shanghai University.
+June 2019 - April 2022: Master of Computer Engineering and Technology, Shanghai University. (Tutor: [Xiangfeng Luo](https://cs.shu.edu.cn/xygk1/xrld.htm))
 
 September 2015 - June 2019: Bachelor's degree in Computer Science and Technology, Anhui University of Technology.
 
