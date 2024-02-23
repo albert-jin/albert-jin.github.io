@@ -9,37 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+My personal resume in PDF format can be downloaded via [Personal Resume-Albert Evans](https://raw.githubusercontent.com/albert-jin/albert-jin.github.io/master/files/Weiqiang%20Jin%20Resume.pdf) or [个人简历-金伟强](https://raw.githubusercontent.com/albert-jin/albert-jin.github.io/master/files/金伟强%20简历.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **(Until Now)** Ph.D Candidate in Information and Communication Engineering, Xi'an Jiaotong University, 2022~2026
+* M.S. in Computer Engineering and Technology, Shanghai University, 2019~2022
+* B.S. in GitHub, Computer Science and Technology, Anhui University of Technology, 2015~2019
 
-Work experience
+Work (Intern) experience
 ======
 * Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * eBay for foreign trade Corporation, Shanghai
+  * Duties includes: Front-end interface development
+  * Supervisor: eBay IaSS Team
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2015: Unity3D and Python Software Development Engineer
+  * Shanghai Youhao Network Technology Co., Ltd, Shanghai
+  * Duties included: frontend scene development for e-commerce platforms, backend application management, user barrage and monitoring
+  * Supervisor: CEO of Shanghai Youhao Network Technology
 
 Publications
 ======
@@ -58,7 +46,23 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Skills (Secret)
 ======
-* Currently signed in to 43 different slack teams
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  
+Service and leadership (Secret)
+======
+* Service 1
+  * Sub-Service 1.1
+  * Sub-Service 1.2
+* Leadership 1
+  * Sub-Leadership 1.1
+  * Sub-Leadership 1.2
+
+TBD
+------
+.
