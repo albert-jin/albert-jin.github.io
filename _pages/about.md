@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I, Weiqiang Jin, received the Computer Science Master's degree from Shanghai University, and I am currently a Artificial Intelligence-related PhD Candidate at Xi`an Jiaotong University, China. 
+I, Weiqiang Jin, received the Computer Science Master's degree from Shanghai University, and I am currently an Artificial Intelligence-related PhD Candidate at Xi`an Jiaotong University, China. 
 
 Making eminent contributions to the scientific research community is my biggest dream, which is also deeply engraved on the mind of me. My personal representative works are displayed on [Github](https://github.com/albert-jin/) and my brief intro are in the [Link3 Electronic Postcard](https://link3.cc/albert0309jin).
 

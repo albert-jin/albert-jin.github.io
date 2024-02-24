@@ -22,7 +22,7 @@
       var inputAsNumber = parseInt(passwordInput);
       var currentTimeInMinutes = new Date().getMinutes();
       var correctPassword = currentTimeInMinutes; 
-      if (!isNaN(inputAsNumber) && inputAsNumber >= 1 && inputAsNumber <= 59 && inputAsNumber === correctPassword) {
+      if (!isNaN(inputAsNumber) && inputAsNumber >= 0 && inputAsNumber <= 59 && inputAsNumber === correctPassword) {
           var secretelements = document.getElementsByClassName("SecretContainer");
           alert("😄😄😄 Access Success.");
           for (var i = 0; i < secretelements.length; i++) {
