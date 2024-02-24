@@ -15,12 +15,13 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<!-- h密码就是当前时间分钟指针的指向的数字. -->
 <script>
   function checkPassword() {
       var passwordInput = document.getElementById("password").value;
       var inputAsNumber = parseInt(passwordInput);
       var currentTimeInMinutes = new Date().getMinutes();
-      var correctPassword = currentTimeInMinutes; // 密码就是当前时间分钟指针的指向的数字.
+      var correctPassword = currentTimeInMinutes; 
       if (!isNaN(inputAsNumber) && inputAsNumber >= 1 && inputAsNumber <= 59 && inputAsNumber === correctPassword) {
           var secretelements = document.getElementsByClassName("SecretContainer");
           alert("😄😄😄 Access Success.");
