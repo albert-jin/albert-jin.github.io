@@ -26,7 +26,7 @@ Secret Access
 <input type="password" id="password" placeholder="Enter password ... Otherwise contact me via email: weiqiangjin@stu.xjtu.edu.cn">
 <button onclick="checkPassword()">click</button>
 
-<script>
+<!-- <script>
     function checkPassword() {
         var passwordInput = document.getElementById("password").value;
         var inputAsNumber = parseInt(passwordInput);
@@ -42,4 +42,4 @@ Secret Access
             alert("😖😖😖 Error password, please contact me via email: weiqiangjin@stu.xjtu.edu.cn");
         }
     }
-</script>
+</script> -->
