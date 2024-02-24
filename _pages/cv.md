@@ -99,7 +99,7 @@ Secret Access
         var inputAsNumber = parseInt(passwordInput);
         var currentTimeInMinutes = new Date().getMinutes();
         var correctPassword = currentTimeInMinutes; // 密码就是当前时间分钟指针的指向的数字.
-        if (!isNaN(inputAsNumber) && inputAsNumber >= 1 && inputAsNumber <= 59 && inputAsNumber === correctPassword) {
+        if (!isNaN(inputAsNumber) && inputAsNumber >= 0 && inputAsNumber <= 59 && inputAsNumber === correctPassword) {
             var secretelements = document.getElementsByClassName("SecretContainer");
             alert("😄😄😄 Access Success.");
             for (var i = 0; i < secretelements.length; i++) {
