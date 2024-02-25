@@ -21,7 +21,7 @@ repository               : "albert-jin/albert-jin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar-ski.jpg"
+  avatar           : "avatar-panda.jpg" #"avatar-ski.jpg"
   name             : "Weiqiang Jin"
   pronouns         : # example: "she/her"  
   bio              : "an Artificial Intelligence-related PhD Candidate at Xi'an Jiaotong University." # I am currently an Artificial Intelligence-related PhD Candidate at Xi'an Jiaotong University and actively seeking a postdoctoral position.
@@ -37,7 +37,7 @@ author:
   impactstory      : "https://link3.cc/albert0309jin"
   orcid            : "http://orcid.org/0000-0002-6656-6061"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  scopus     : https://www.scopus.com/authid/detail.uri?authorId=57323468500
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
