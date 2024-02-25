@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-⚠️⚠️⚠️ <span style="color: red; font-size: larger;">My personal resume in PDF format</span> can be downloaded via [Personal Resume-Albert Evans](https://raw.githubusercontent.com/albert-jin/albert-jin.github.io/master/files/Weiqiang%20Jin%20Resume.pdf) or [个人简历-金伟强](https://raw.githubusercontent.com/albert-jin/albert-jin.github.io/master/files/金伟强%20简历.pdf).
+⚠️⚠️⚠️ <span style="color: red; font-size: larger;">My personal resume in PDF format</span> can be downloaded
+<br/> via [Personal Resume-Albert Evans](https://raw.githubusercontent.com/albert-jin/albert-jin.github.io/master/files/Weiqiang%20Jin%20Resume.pdf) or [个人简历-金伟强](https://raw.githubusercontent.com/albert-jin/albert-jin.github.io/master/files/金伟强%20简历.pdf).
 
 Education
 ======
