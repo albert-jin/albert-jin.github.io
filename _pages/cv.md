@@ -16,19 +16,25 @@ Education
 ======
 * **(Until Now)** Ph.D Candidate in Information and Communication Engineering, Xi'an Jiaotong University, 2022~2026
 * M.S. in Computer Engineering and Technology, Shanghai University, 2019~2022
-* B.S. in GitHub, Computer Science and Technology, Anhui University of Technology, 2015~2019
+* B.S. in Computer Science and Technology, Anhui University of Technology, 2015~2019
 
 Work (Intern) experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * eBay for foreign trade Corporation, Shanghai
-  * Duties includes: Front-end interface development
-  * Supervisor: eBay IaSS Team
+* February 2024 - February 2025: Assistant Counselor of School of Information and Communication Engineering, Xi'an Jiaotong University
+  * Duties included: Assist Teachers in completing daily administrative tasks and various assignments.
+  
+* February 2024 - September 2024: Ass. Mgr. (Assistant Manager) of XXXX, Xi'an Jiaotong University
+  * Duties included:  Assist Teachers in completing daily administrative tasks and various assignments.
 
-* Fall 2015: Unity3D and Python Software Development Engineer
+* May 2022 - Sep 2022: Unity3D and Python Software Development Engineer
   * Shanghai Youhao Network Technology Co., Ltd, Shanghai
   * Duties included: frontend scene development for e-commerce platforms, backend application management, user barrage and monitoring
   * Supervisor: CEO of Shanghai Youhao Network Technology
+
+* Jan 2021 - Jun 2021: Academic Pages Collaborator
+  * eBay for foreign trade Corporation, Shanghai
+  * Duties includes: Front-end interface development
+  * Supervisor: eBay IaSS Team
 
 Publications
 ======
