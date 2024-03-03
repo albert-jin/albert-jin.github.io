@@ -53,6 +53,9 @@
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw"></i> PubMed</a></li>
       {% endif %}                        
+      {% if author.dblp %}
+      <li><a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw"></i> DBLP</a></li>
+    {% endif %}   
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> Scopus</a></li>
       {% endif %}
