@@ -31,7 +31,8 @@ Achievements
 1. Academic Achievements: Published over **20** academic papers, including SCI index journals and EI index conferences, with citations exceeding **100** on Google Scholar;
 1. Project Experiences: Participated in numerous national and provincial-level major projects in the field of natural sciences;
 1. School Honors: Received multiple school scholarships during undergraduate, master's, and doctoral studies, as well as a national scholarship during doctoral studies;
-1. Competition Honors: Attained various competition honors, including the National Graduate Mathematical Modeling Second Prize, Internet Plus, Tengfei Cup, and Challenge Cup Innovation and Entrepreneurship Competition;
+1. Competition Honors: Attained various competition honors, including the National Graduate Mathematical Modeling Second Prize, Internet Plus, Tengfei Cup, and so on;
+<!-- Challenge Cup Innovation and Entrepreneurship Competition -->
 1. Internship Experiences: Front-end Software Engineer in eBay for foreign trade Corporation, Shanghai, and Unity3D and Python Software Development Engineer in Shanghai Youhao Network Technology Co., Ltd;
 1. Language Proficiencies: CET (Chinese College English Test) Level 4 and Level 6 and IELTS (International English Language Testing System) level **7.0**;
 1. Open-source Community Contributions: Actively contributing to the open-source community on platforms like [GitHub](https://github.com/albert-jin/) and [other Internet platforms](https://github.com/albert-jin/FintechKP-frontend/), currently with over **300+** stars, wathcings and forks;
@@ -71,7 +72,7 @@ I have served as a reviewer for <span style="color: red; font-size: large;">mult
 
 * Journals: [Information Fusion](https://www.sciencedirect.com/journal/information-fusion), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems), [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management), [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), [Resources, Conservation & Recycling](https://www.sciencedirect.com/journal/resources-conservation-and-recycling), [Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence), [Artificial Intelligence Review](https://link.springer.com/journal/10462), [Web Intelligence](https://www.iospress.com/catalog/journals/web-intelligence), [Data Mining and Knowledge Discovery](https://link.springer.com/journal/10618), [ISA Transactions](https://www.sciencedirect.com/journal/isa-transactions), [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x), [Journal of Advanced Research in Applied Sciences and Engineering Technology](https://semarakilmu.com.my/journals/index.php/applied_sciences_eng_tech/index), [Natural Language Processing Journal](https://www.sciencedirect.com/journal/natural-language-processing-journal), [Qeios](https://www.qeios.com/) and so on.
 
-* Conferences: [CogSci 2024](https://cognitivesciencesociety.org/) and so on.
+* Conferences: [CogSci 2024](https://cognitivesciencesociety.org/), [MIDL 2024](https://2024.midl.io/), and so on.
 
 ![My experience in peer reviewing.](/images/reviewer.JPG)
 
@@ -102,6 +103,11 @@ Chinese Invention Patents
 - 一种大语言模型驱动的具身智能体零样本目标导航方法. (独立一作) (During qualification examination...)
 <br>
 <span style="font-size: large;">A zero-shot target navigation method driven by large language model-enabled embodied intelligent agents. (sole first author)</span>
+<span style="color: red; font-size: medium;">(During qualification examination...)</span>
+
+- 一种基于焦点注意网络增强的海陆空微小目标检测方法. (独立一作) (During qualification examination...)
+<br>
+<span style="font-size: large;">A tiny target detection method based on enhanced attention networks for sea, land, and air. (sole first author)</span>
 <span style="color: red; font-size: medium;">(During qualification examination...)</span>
 
 - 基于人类模糊直觉驱动的关键目标定位与分割方法与系统. (除一老师外一作) (During qualification examination...)

@@ -21,10 +21,10 @@ Education
 Work (Intern) experience
 ======
 * February 2024 - February 2025: Assistant Counselor of School of Information and Communication Engineering, Xi'an Jiaotong University
-  * Duties included: Assist Teachers in completing daily administrative tasks and various assignments.
+  <!-- * Duties included: Assist Teachers in completing daily administrative tasks and various assignments. -->
   
-* February 2024 - September 2024: Ass. Mgr. (Assistant Manager) of XXXX, Xi'an Jiaotong University
-  * Duties included:  Assist Teachers in completing daily administrative tasks and various assignments.
+* February 2024 - September 2024: Ass. Mgr. (Assistant Manager) of National Academy of Distinguished Engineers, Xi'an Jiaotong University
+  <!-- * Duties included:  Assist Teachers in completing daily administrative tasks and various assignments. -->
 
 * May 2022 - Sep 2022: Unity3D and Python Software Development Engineer
   * Shanghai Youhao Network Technology Co., Ltd, Shanghai
