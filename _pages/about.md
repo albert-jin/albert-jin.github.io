@@ -11,6 +11,9 @@ I, Weiqiang Jin, received the Computer Science Master's degree from Shanghai Uni
 
 Making eminent contributions to the scientific research community is my biggest dream, which is also deeply engraved on the mind of me. My personal representative works are displayed on [Github](https://github.com/albert-jin/) and my brief intro are in the [Link3 Electronic Postcard](https://link3.cc/albert0309jin).
 
+Serving as the Academic Editor for [Plos One](https://journals.plos.org/plosone/) since 2024.
+<br/><img width='35%' src='/images/PLOSEdBoardBadge_ONE.png'><br/><br/>
+
 Research Interests
 ======
 1. Natural Language Processing, including Knowledge Graph-related Question Answering, Aspect-term Based Sentiment Analysis, Information Retrieval, Fake News Detection and Checking, and Prompt Learning. 
@@ -70,7 +73,7 @@ My [GitHub](https://github.com/albert-jin/) Homepage.
 
 I have served as a reviewer for <span style="color: red; font-size: large;">multiple international journals and conferences</span>, including:
 
-* Journals: [Information Fusion](https://www.sciencedirect.com/journal/information-fusion), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems), [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management), [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), [Resources, Conservation & Recycling](https://www.sciencedirect.com/journal/resources-conservation-and-recycling), [Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence), [Artificial Intelligence Review](https://link.springer.com/journal/10462), [Web Intelligence](https://www.iospress.com/catalog/journals/web-intelligence), [Data Mining and Knowledge Discovery](https://link.springer.com/journal/10618), [ISA Transactions](https://www.sciencedirect.com/journal/isa-transactions), [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x), [Journal of Advanced Research in Applied Sciences and Engineering Technology](https://semarakilmu.com.my/journals/index.php/applied_sciences_eng_tech/index), [Natural Language Processing Journal](https://www.sciencedirect.com/journal/natural-language-processing-journal), [Qeios](https://www.qeios.com/) and so on.
+* Journals: [Information Fusion](https://www.sciencedirect.com/journal/information-fusion), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems), [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management), [Plos One](https://journals.plos.org/plosone/), [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), [Resources, Conservation & Recycling](https://www.sciencedirect.com/journal/resources-conservation-and-recycling), [Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence), [Artificial Intelligence Review](https://link.springer.com/journal/10462), [Web Intelligence](https://www.iospress.com/catalog/journals/web-intelligence), [Data Mining and Knowledge Discovery](https://link.springer.com/journal/10618), [ISA Transactions](https://www.sciencedirect.com/journal/isa-transactions), [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x), [Journal of Advanced Research in Applied Sciences and Engineering Technology](https://semarakilmu.com.my/journals/index.php/applied_sciences_eng_tech/index), [Natural Language Processing Journal](https://www.sciencedirect.com/journal/natural-language-processing-journal), [Qeios](https://www.qeios.com/) and so on.
 
 * Conferences: [CogSci 2024](https://cognitivesciencesociety.org/), [MIDL 2024](https://2024.midl.io/), and so on.
 
@@ -120,6 +123,8 @@ Works in Submission
 * UniFake: Bridging Rumor Detection and Fact Verification through Cross-Task Linguistic Synergies for Fake News Identification. ([CogSci 2024](https://cognitivesciencesociety.org/) Under Review.)
 
 * Can Rumor Detection Enhance Fact Verification? Unraveling Cross-Task Synergies Between Rumor Detection and Fact Verification. ([IEEE Transactions on Big Data - TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317) Under Review.)
+
+* DisCo-FEND: Social Context Veracity Dissemination Consistency-Guided Case Reasoning for Few-Shot Fake News Detection. ([ICCBR 2024](https://www.iccbr2024.org/) Under Review.)
 
 TBD
 ------
