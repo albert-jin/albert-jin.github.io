@@ -89,7 +89,7 @@ Chinese Invention Patents
 <span style="font-size: large;">A rumor detection data augmentation method and device based on multi-dimensional focus issue generation. (sole first author)</span>
 <span style="color: red; font-size: medium;">(During qualification examination...)</span>
 
-- 一种借助谣言检测任务数据增强的少样本监督中文事实核查方法. (独立一作) (During qualification examination...)
+- 一种借助谣言检测任务数据增强的少样本监督中文事实核查方法. (独立一作)
 <br>
 <span style="font-size: large;">A few-shot supervised Chinese fact-checking method aided by rumor detection task data augmentation. (sole first author)</span>
 <span style="color: red; font-size: medium;">(During qualification examination...)</span>
