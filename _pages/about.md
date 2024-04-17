@@ -73,7 +73,8 @@ My [GitHub](https://github.com/albert-jin/) Homepage.
 
 I have served as a reviewer for <span style="color: red; font-size: large;">multiple international journals and conferences</span>, including:
 
-* Journals: [Information Fusion](https://www.sciencedirect.com/journal/information-fusion), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems), [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management), [Plos One](https://journals.plos.org/plosone/), [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), [Resources, Conservation & Recycling](https://www.sciencedirect.com/journal/resources-conservation-and-recycling), [Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence), [Artificial Intelligence Review](https://link.springer.com/journal/10462), [Web Intelligence](https://www.iospress.com/catalog/journals/web-intelligence), [Data Mining and Knowledge Discovery](https://link.springer.com/journal/10618), [ISA Transactions](https://www.sciencedirect.com/journal/isa-transactions), [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x), [Journal of Advanced Research in Applied Sciences and Engineering Technology](https://semarakilmu.com.my/journals/index.php/applied_sciences_eng_tech/index), [Natural Language Processing Journal](https://www.sciencedirect.com/journal/natural-language-processing-journal), [Qeios](https://www.qeios.com/) and so on.
+* Journals: [Information Fusion](https://www.sciencedirect.com/journal/information-fusion), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems), [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management), [Artificial Intelligence Review](https://link.springer.com/journal/10462) , [Recent Advances in Electrical & Electronic Engineering
+](https://benthamscience.com/public/journals/recent-advances-in-electrical-and-electronic-engineering), [Plos One](https://journals.plos.org/plosone/), [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), [Resources, Conservation & Recycling](https://www.sciencedirect.com/journal/resources-conservation-and-recycling), [Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence), [Artificial Intelligence Review](https://link.springer.com/journal/10462), [Web Intelligence](https://www.iospress.com/catalog/journals/web-intelligence), [Data Mining and Knowledge Discovery](https://link.springer.com/journal/10618), [ISA Transactions](https://www.sciencedirect.com/journal/isa-transactions), [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x), [Journal of Advanced Research in Applied Sciences and Engineering Technology](https://semarakilmu.com.my/journals/index.php/applied_sciences_eng_tech/index), [Natural Language Processing Journal](https://www.sciencedirect.com/journal/natural-language-processing-journal), [Qeios](https://www.qeios.com/) and so on.
 
 * Conferences: [CogSci 2024](https://cognitivesciencesociety.org/), [MIDL 2024](https://2024.midl.io/), and so on.
 
@@ -93,38 +94,44 @@ Chinese Invention Patents
 <span style="font-size: large;">A few-shot supervised Chinese fact-checking method aided by rumor detection task data augmentation. (sole first author)</span>
 <span style="color: red; font-size: medium;">(During qualification examination...)</span>
 
-- 一种大语言模型驱动知识图谱多跳推理的军事问答方法与系统. (独立一作) (During qualification examination...)
+- 一种大语言模型驱动知识图谱多跳推理的军事问答方法与系统. (独立一作)
 <br>
 <span style="font-size: large;">A military question-answering method and system driven by large language model-enabled knowledge graph multi-hop reasoning. (sole first author)</span>
 <span style="color: red; font-size: medium;">(During qualification examination...)</span>
 
-- 一种基于大语言模型的具身多智能体协同博弈决策方法. (独立一作) (During qualification examination...)
+- 一种基于大语言模型的具身多智能体协同博弈决策方法. (独立一作)
 <br>
 <span style="font-size: large;">A multi-agent cooperative decision-making method based on large language model-driven embodied intelligent agents. (sole first author)</span>
 <span style="color: red; font-size: medium;">(During qualification examination...)</span>
 
-- 一种大语言模型驱动的具身智能体零样本目标导航方法. (独立一作) (During qualification examination...)
+- 一种大语言模型驱动的具身智能体零样本目标导航方法. (独立一作)
 <br>
 <span style="font-size: large;">A zero-shot target navigation method driven by large language model-enabled embodied intelligent agents. (sole first author)</span>
 <span style="color: red; font-size: medium;">(During qualification examination...)</span>
 
-- 一种基于焦点注意网络增强的海陆空微小目标检测方法. (独立一作) (During qualification examination...)
+- 一种基于焦点注意网络增强的海陆空微小目标检测方法. (独立一作)
 <br>
 <span style="font-size: large;">A tiny target detection method based on enhanced attention networks for sea, land, and air. (sole first author)</span>
 <span style="color: red; font-size: medium;">(During qualification examination...)</span>
 
-- 基于人类模糊直觉驱动的关键目标定位与分割方法与系统. (除一老师外一作) (During qualification examination...)
+- 基于人类模糊直觉驱动的关键目标定位与分割方法与系统. (除一老师外一作)
 <br>
 <span style="font-size: large;">A method and system for key target localization and segmentation driven by human fuzzy intuition. (except a teacher from Northwestern Polytechnical University, sole first author)</span>
 <span style="color: red; font-size: medium;">(During qualification examination...)</span>
 
 Works in Submission
 ------
-* UniFake: Bridging Rumor Detection and Fact Verification through Cross-Task Linguistic Synergies for Fake News Identification. ([CogSci 2024](https://cognitivesciencesociety.org/) Under Review.)
+* UniFake: Bridging Rumor Detection and Fact Verification through Cross-Task Linguistic Synergies for Fake News Identification. ([KR 2024](https://kr.org/KR2024/) Under Review.)
 
-* Can Rumor Detection Enhance Fact Verification? Unraveling Cross-Task Synergies Between Rumor Detection and Fact Verification. ([IEEE Transactions on Big Data - TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317) Under Review.)
+* Can Rumor Detection Enhance Fact Verification? Unraveling Cross-Task Synergies Between Rumor Detection and Fact Verification. ([IEEE Transactions on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317) Under Review.)
 
-* DisCo-FEND: Social Context Veracity Dissemination Consistency-Guided Case Reasoning for Few-Shot Fake News Detection. ([ICCBR 2024](https://www.iccbr2024.org/) Under Review.)
+* DisCo-FEND: Social Context Veracity Dissemination Consistency-Guided Case Reasoning for Few-Shot Fake News Detection. ([ISWC 2024](https://iswc2024.semanticweb.org/) Under Review.)
+
+* PMTL-DisCo: A Prompting MulTi-task Learning-based Veracity Dissemination Consistency Reasoning Augmentation for Few-Shot Fake News Detection ([Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) Under Review.)
+
+* A veracity dissemination consistency-based few-shot fake news detection framework by synergizing adversarial and contrastive self-supervised learning (Writing...)
+
+% [ECAI](https://www.ecai2024.eu/calls/main-track)
 
 TBD
 ------
