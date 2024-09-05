@@ -121,21 +121,24 @@ Chinese Invention Patents
 
 Works in Submission
 ------
-* UniFake: Bridging Rumor Detection and Fact Verification through Cross-Task Linguistic Synergies for Fake News Identification. ([KR 2024](https://kr.org/KR2024/) Under Review.)
+<!--[KR 2024](https://kr.org/KR2024/)--> <!-- Bridging Rumor Detection and Fact Verification through Cross-Task Linguistic Synergies -->
+* UniFake: Bridging Rumor Detection and Fact Verification through Cross-Task Linguistic Synergies for Fake News Identification. ([ICASSP 2025](https://2025.ieeeicassp.org/) Under Review.) 
 
-* Can Rumor Detection Enhance Fact Verification? Unraveling Cross-Task Synergies Between Rumor Detection and Fact Verification. ([IEEE Transactions on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317) Under Review.)
+<!--* Can Rumor Detection Enhance Fact Verification? Unraveling Cross-Task Synergies Between Rumor Detection and Fact Verification. ([IEEE Transactions on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317) Under Review.)-->
 
-* DisCo-FEND: Social Context Veracity Dissemination Consistency-Guided Case Reasoning for Few-Shot Fake News Detection. ([ISWC 2024](https://iswc2024.semanticweb.org/) Under Review.)
+<!--* DisCo-FEND: Social Context Veracity Dissemination Consistency-Guided Case Reasoning for Few-Shot Fake News Detection. ([ISWC 2024](https://iswc2024.semanticweb.org/) Under Review.)-->
 
 * PMTL-DisCo: A Prompting MulTi-task Learning-based Veracity Dissemination Consistency Reasoning Augmentation for Few-Shot Fake News Detection ([Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) Under Review.)
 
-* A veracity dissemination consistency-based few-shot fake news detection framework by synergizing adversarial and contrastive self-supervised learning (Writing...)
+<!--* A veracity dissemination consistency-based few-shot fake news detection framework by synergizing adversarial and contrastive self-supervised learning (Writing...)-->
 
-% [ECAI](https://www.ecai2024.eu/calls/main-track)
+<!--% [ECAI](https://www.ecai2024.eu/calls/main-track)-->
 
-TBD
+* Self-adaptive LLM instructions optimization for aspect-based sentiment analysis by incorporating emotion-oriented in-contexts. ([Computational Intelligence](https://onlinelibrary.wiley.com/journal/14678640) Under Review.)
+
+Works in Conducting
 ------
-. 
+* A Comprehensive Survey on Multi-Agent Cooperative Decision-Making Scenarios, Approaches, Challenges and Perspectives. ([Artificial Intelligence Review](https://link.springer.com/journal/10462) Preparing for.) 
 
 TBD
 ------

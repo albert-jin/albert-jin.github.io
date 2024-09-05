@@ -60,5 +60,8 @@
       <p class="wordwrap">Download <a href=" {{ post.paperurl }} ">here</a></p>
     {% endif %}
 
+    {% if post.additioninfo %}
+    <p>{{ post.additioninfo }} </p>
+    {% endif %}
   </article>
 </div>
