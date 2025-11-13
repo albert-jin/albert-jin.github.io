@@ -11,7 +11,7 @@ I, Weiqiang Jin, received the Computer Science Master's degree from Shanghai Uni
 
 Making eminent contributions to the scientific research community is my biggest dream, which is also deeply engraved on the mind of me. My personal representative works are displayed on [Github](https://github.com/albert-jin/) and my brief intro are in the [Link3 Electronic Postcard](https://link3.cc/albert0309jin).
 
-Serving as the Academic Editor for [Plos One](https://journals.plos.org/plosone/) since 2024.
+Served as the Academic Editor for [Plos One](https://journals.plos.org/plosone/) since 2024.03 to 2025.10 (about 1 year and a half).
 <br/><img width='35%' src='/images/PLOSEdBoardBadge_ONE.png'><br/><br/>
 
 Research Interests
