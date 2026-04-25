@@ -7,6 +7,171 @@ redirect_from:
   - /about.html
 ---
 
+
+<style>
+    @keyframes deprecated-gradient-shift {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+    }
+
+    #site-deprecated-overlay {
+        position: fixed;
+        inset: 0;
+        z-index: 99999;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: linear-gradient(135deg, #ff7eb3 0%, #7afcff 45%, #f9f871 100%);
+        background-size: 220% 220%;
+        animation: deprecated-gradient-shift 9s ease infinite;
+        padding: 1.2rem;
+    }
+
+    #site-deprecated-overlay::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background:
+            radial-gradient(circle at 15% 20%, rgba(255, 255, 255, 0.35), transparent 32%),
+            radial-gradient(circle at 85% 80%, rgba(255, 255, 255, 0.28), transparent 30%),
+            linear-gradient(to bottom right, rgba(255, 255, 255, 0.22), rgba(255, 255, 255, 0.08));
+        pointer-events: none;
+    }
+
+    .site-deprecated-modal {
+        position: relative;
+        width: min(760px, 100%);
+        border-radius: 24px;
+        padding: 2.3rem 1.6rem 1.8rem;
+        text-align: center;
+        color: #102a43;
+        background: rgba(255, 255, 255, 0.92);
+        backdrop-filter: blur(8px);
+        box-shadow: 0 22px 52px rgba(16, 42, 67, 0.28);
+    }
+
+    .site-deprecated-badge {
+        display: inline-block;
+        margin-bottom: 0.85rem;
+        padding: 0.32rem 0.7rem;
+        border-radius: 999px;
+        font-size: 0.75rem;
+        letter-spacing: 0.08em;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #ffffff;
+        background: linear-gradient(90deg, #0ea5e9, #f97316);
+    }
+
+    .site-deprecated-modal h2 {
+        margin: 0 0 0.9rem;
+        font-size: clamp(1.55rem, 4.3vw, 2.05rem);
+        font-weight: 800;
+    }
+
+    .site-deprecated-modal p {
+        margin: 0 auto;
+        max-width: 640px;
+        line-height: 1.72;
+        font-size: 1.02rem;
+    }
+
+    .site-deprecated-link {
+        color: #075985;
+        font-weight: 700;
+        text-decoration: underline;
+        text-underline-offset: 2px;
+        word-break: break-all;
+    }
+
+    .site-deprecated-countdown {
+        margin-top: 1.2rem;
+        font-size: 0.93rem;
+        color: #334e68;
+    }
+
+    .site-deprecated-confirm {
+        margin-top: 0.88rem;
+        min-width: 132px;
+        padding: 0.56rem 1.18rem;
+        border: 0;
+        border-radius: 10px;
+        cursor: pointer;
+        font-size: 1rem;
+        font-weight: 700;
+        color: #ffffff;
+        background: linear-gradient(90deg, #0284c7 0%, #0f766e 100%);
+        box-shadow: 0 10px 24px rgba(2, 132, 199, 0.33);
+    }
+
+    .site-deprecated-confirm:hover {
+        filter: brightness(1.06);
+    }
+
+    #site-deprecated-overlay.is-closing {
+        opacity: 0;
+        transition: opacity 0.24s ease;
+    }
+</style>
+
+<div id="site-deprecated-overlay" role="dialog" aria-modal="true" aria-labelledby="site-deprecated-title">
+    <div class="site-deprecated-modal">
+        <span class="site-deprecated-badge">Website Notice</span>
+        <h2 id="site-deprecated-title">该个人网站已废弃</h2>
+        <p>
+            最新更新请访问
+            <a class="site-deprecated-link" href="https://albert-evans.github.io/" target="_blank" rel="noopener">
+                https://albert-evans.github.io/
+            </a>
+        </p>
+        <div class="site-deprecated-countdown" id="site-deprecated-countdown">5 秒后自动关闭</div>
+        <button type="button" class="site-deprecated-confirm" id="site-deprecated-confirm">确定</button>
+    </div>
+</div>
+
+<script>
+    (function () {
+        var overlay = document.getElementById("site-deprecated-overlay");
+        var confirmBtn = document.getElementById("site-deprecated-confirm");
+        var countdownText = document.getElementById("site-deprecated-countdown");
+        var secondsLeft = 5;
+        var timerId = null;
+
+        if (!overlay || !confirmBtn || !countdownText) {
+            return;
+        }
+
+        function closeOverlay() {
+            if (timerId) {
+                clearInterval(timerId);
+            }
+            overlay.classList.add("is-closing");
+            setTimeout(function () {
+                if (overlay && overlay.parentNode) {
+                    overlay.parentNode.removeChild(overlay);
+                }
+            }, 240);
+        }
+
+        function renderCountdown() {
+            countdownText.textContent = secondsLeft + " 秒后自动关闭";
+        }
+
+        confirmBtn.addEventListener("click", closeOverlay);
+        renderCountdown();
+
+        timerId = setInterval(function () {
+            secondsLeft -= 1;
+            if (secondsLeft <= 0) {
+                closeOverlay();
+                return;
+            }
+            renderCountdown();
+        }, 1000);
+    })();
+</script>
+
 I, Weiqiang Jin, received the Computer Science Master's degree from Shanghai University, and I am currently an Artificial Intelligence-related PhD Candidate at Xi`an Jiaotong University, China. 
 
 Making eminent contributions to the scientific research community is my biggest dream, which is also deeply engraved on the mind of me. My personal representative works are displayed on [Github](https://github.com/albert-jin/) and my brief intro are in the [Link3 Electronic Postcard](https://link3.cc/albert0309jin).
