@@ -120,9 +120,9 @@ redirect_from:
         <span class="site-deprecated-badge">Website Notice</span>
         <h2 id="site-deprecated-title">该个人网站已废弃</h2>
         <p>
-            最新更新请访问
-            <a class="site-deprecated-link" href="https://albert-evans.github.io/" target="_blank" rel="noopener">
-                https://albert-evans.github.io/
+                        最新更新请访问
+            <a class="site-deprecated-link" href="https://albert-jin.github.io/albert-evans.github.io/" target="_blank" rel="noopener">
+                https://albert-jin.github.io/albert-evans.github.io/
             </a>
         </p>
         <div class="site-deprecated-countdown" id="site-deprecated-countdown">5 秒后自动关闭</div>
